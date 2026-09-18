@@ -1,0 +1,19 @@
+p{
+	font-size: 50px;
+	color: green;
+	background: yellow;
+	padding: 5px;
+}
+img{
+	margin: auto;
+}
+a {
+	font-size: 70px;
+
+}
+table,tr,td,tr{
+	border: 1px solid #ddd ;
+	border-collapse: collapse;
+	padding: 20px;
+	font-size: 40px;
+}
