@@ -17,3 +17,14 @@ table,tr,td,tr{
 	padding: 20px;
 	font-size: 40px;
 }
+h1{
+	border: 5px solid ;
+	border-color: tomato;
+	font-size: 40px;
+	
+}
+strong{
+border: 2px solid;
+border-color: silver;
+
+}
